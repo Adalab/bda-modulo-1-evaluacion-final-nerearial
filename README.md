@@ -2,9 +2,8 @@
 ***
 ## EVALUACIÓN FINAL DEL MÓDULO 1
 
-## Ejercicio
+<a name="titulo"> Ejercicio de Evaluación Final Módulo 1</a>
 
-<a name="cuerpo">
 En este pequeño Jupyter Notebooks, creo una serie de variables, métodos y funciones dentro de una clase para demostrar mi evolución a través de la evaluación del Módulo 1 basado en Python. 
 Dentro del Módulo 1 de Python he aprendido:
 
@@ -18,4 +17,3 @@ Dentro del Módulo 1 de Python he aprendido:
 8. Expresiones regulares (regex)
 
 
-</a>
