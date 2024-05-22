@@ -4,7 +4,8 @@
 
 <a name="titulo"> Ejercicio de Evaluación Final Módulo 1</a>
 
-En este pequeño Jupyter Notebooks, creo una serie de variables, métodos y funciones dentro de una clase para demostrar mi evolución a través de la evaluación del Módulo 1 basado en Python. 
+*En este pequeño Jupyter Notebooks, creo una serie de variables, métodos y funciones dentro de una clase para demostrar mi evolución a través de la evaluación del Módulo 1 basado en Python.*
+
 Dentro del Módulo 1 de Python he aprendido:
 
 1. Variables
